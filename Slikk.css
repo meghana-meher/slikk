@@ -1,0 +1,289 @@
+.firstnav{
+	background-color: #5433ff;
+/*	padding: 10px;*/
+	color: white;
+}
+.navbar-brand img{
+	width: 32px;
+	height: 35px;
+}
+.navbar-brand h1{
+	color: white;
+	display: inline;
+	padding-left: 10px;
+	font-family: Roboto;
+	font-size: 20px;
+	padding-left: 20px;
+}
+.nav-link:focus{
+	color: white;
+}
+.nav-link:hover{
+	color: white;
+}
+.nav-item a{
+	color: white;
+}
+.firstbody{
+	background:linear-gradient(60deg,#3F0077,#3F0077,#3F0077,#5433FF) ;
+	width: 100%;
+	height: 100%;
+	padding-top:50px ;
+	padding-bottom: 50px;
+}
+.rightbody h1{
+	color: white;
+	font-family: Roboto;
+	font-size: 40px;
+}
+.rightbody p{
+	color: white;
+	font-family: urbane round;
+	font-size: 18px;
+
+}
+.rightbody .icon{
+	color: #CEFF00;
+	display: inline-block;
+	
+
+}
+.rightbody .words{
+	display: inline-block;
+	padding-left: 35px;
+	font-family: urbane round;
+	color: white;
+	font-size: 20px;
+}
+.firstbody .button1{
+	width: 200px;
+	height: 40px;
+	background-color: #eba40c;
+	color: white;
+	font-family: urbane round;
+	font-size: 18px;
+	border-color: transparent;
+	border-radius: 10px;
+}
+.firstbody .button2{
+	width: 150px;
+	height: 40px;
+	background-color: white;
+	color: #5882d6;
+	font-family: urbane round;
+	font-size: 15px;
+	border-color: transparent;
+	border-radius: 10px
+}
+.firstbody .pic2{
+	width: 70%;
+	height: 100%;
+	border-radius: 40%;
+}
+.secondbody{
+	width: 100%;
+	padding-top: 40px;
+
+}
+.secondbody h1{
+	text-align: center;
+	font-size: 35px;
+	font-family: urbane rounded medium;
+	padding-bottom: 30px;
+}
+.secondbody li{
+	text-align: center;
+	list-style-type: none;
+}
+.secondbody li h1{
+	font-family:Roboto ;
+	font-size: 25px;
+}
+.secondbody .pic3{ 
+ width:150px;
+ height:150px;
+ border: solid 1px transparent;
+  box-shadow: 5px 5px 5px 5px #00000029;
+  border-radius:100px;
+  padding-top: 30px;
+  margin-left: 100px;
+  margin-bottom: 20px;
+
+}
+
+.thirdbody{
+	padding-top: 50px;
+
+}
+.thirdbody h2{
+font-size: 30px;
+
+}
+.thirdbody p{
+	font-size: 20px;
+}
+.thirdbody button{
+	width: 200px;
+	height: 50px;
+	border-radius:60px;
+	background-color: #5433FF;
+	color: white;
+	font-family: Urbane rounded;
+	border-color: transparent;
+
+}
+.thirdbody .pic3{
+	width: 550px;
+	height: 450px;
+
+}
+.fourthbody{
+	padding-top: 50px;
+}
+.fourthbody h2{
+font-size: 30px;
+
+}
+.fourthbody p{
+	font-size: 20px;
+}
+.fourthbody button{
+	width: 200px;
+	height: 50px;
+	border-radius:60px;
+	background-color: #5433FF;
+	color: white;
+	font-family: Urbane rounded;
+	border-color: transparent;
+
+}
+.fourthbody .pic4{
+	width: 550px;
+	height: 450px;
+
+}
+.fifthbody{
+padding-top: 50px;
+}
+.fifthbody h2{
+font-size: 30px;
+
+}
+.fifthbody p{
+	font-size: 20px;
+}
+.fifthbody button{
+	width: 200px;
+	height: 50px;
+	border-radius:60px;
+	background-color: #5433FF;
+	color: white;
+	font-family: Urbane rounded;
+	border-color: transparent;
+
+}
+.fifthbody .pic5{
+	width: 550px;
+	height: 450px;
+
+}
+.sixthbody{
+	padding-top: 50px;
+}
+.sixthbody h2{
+font-size: 30px;
+
+}
+.sixthbody p{
+	font-size: 20px;
+}
+.sixthbody button{
+	width: 200px;
+	height: 50px;
+	border-radius:60px;
+	background-color: #5433FF;
+	color: white;
+	font-family: Urbane rounded;
+	border-color: transparent;
+
+}
+.sixthbody .pic6{
+	width: 550px;
+	height: 450px;
+
+}
+.seventhbody{
+	padding-top: 50px;
+}
+.seventhbody h1{
+	text-align: center;
+	font-size: 35px;
+	font-family: urbane rounded medium;
+	padding-bottom: 30px;
+}
+/*.seventhbody .box{
+	width:1180px;
+	height: 350px;
+	background-color: #FCEEFF;
+	position: absolute;
+
+}
+.box .pic7{
+	width: 250px;
+	height: 350px;
+	position: relative;
+}*/
+.xyz{
+	background-color: #FCEEFF;
+	width: 100%;
+	height: 350px;
+	border-radius: 45px;
+	position: relative;
+
+}
+.xyz img{
+	position: absolute;
+	width: 350px;
+	height: 350px;
+	border-radius: 60px;
+	align:left;
+}
+.footer{
+	padding-top: 50px;
+	padding-bottom:50px ;
+	width: 100%;
+	background:linear-gradient(180deg,#080037,#3F0077);
+	border-radius: 150px;
+}
+.footer h1{
+	color: white;
+	font-family:Roboto ;
+	font-size: 25px;
+	display: inline-block;
+}
+.footer img{
+	border-radius: 30px;
+	padding-left: 2px;
+}
+.footer .one{
+	padding-top: 55px;
+}
+.footer .one .two{
+	font-size: 20px;
+	font-family: urbane rounded;
+}
+.footer .one li{
+	list-style-type: none;
+	color: white;
+}
+.footer h5{
+	color: white;
+}
+.footer p{
+	color: white;
+}
+.footer i{
+	color: white;
+	float: right;
+	padding-left: 16px;
+}
